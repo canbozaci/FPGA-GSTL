@@ -35,3 +35,10 @@ Project 5:
 
 Project 6:  
 
+· Frequency Divider  
+· Pulse Width Modulation  
+· Modul Design (Parallel to Serial Converter with adding a even parity bit to the LSB) (Picture below)  
+
+![image](https://user-images.githubusercontent.com/81713653/153500274-d0374b3e-88bd-434d-9dbd-22e146ff311d.png)
+
+
