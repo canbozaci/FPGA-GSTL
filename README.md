@@ -51,6 +51,14 @@ Project 7:
 ![image](https://user-images.githubusercontent.com/81713653/153500545-34d35edd-0349-414d-bf0f-b789dc08a160.png)
 
 
+Project 8:  
+
+· Greatest Common Divisor (Module Picture and Architecture is shown below)  
+
+![image](https://user-images.githubusercontent.com/81713653/153500806-37125710-3bba-4065-8179-2eeb69064948.png)  
+
+![image](https://user-images.githubusercontent.com/81713653/153500835-895d5cf3-0b47-4f09-9eab-610ebd6e0cfc.png)  
+
 
 
 
