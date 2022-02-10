@@ -42,3 +42,15 @@ Project 6:
 ![image](https://user-images.githubusercontent.com/81713653/153500274-d0374b3e-88bd-434d-9dbd-22e146ff311d.png)
 
 
+Project 7:  
+
+· 8 bit Multiplier (Module Picture and Architecture is shown below)
+
+![image](https://user-images.githubusercontent.com/81713653/153500510-993df35c-c404-4dd1-a942-3572650124fa.png)  
+
+![image](https://user-images.githubusercontent.com/81713653/153500545-34d35edd-0349-414d-bf0f-b789dc08a160.png)
+
+
+
+
+
