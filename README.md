@@ -61,6 +61,22 @@ Project 8:
 ![image](https://user-images.githubusercontent.com/81713653/153500806-37125710-3bba-4065-8179-2eeb69064948.png)  
   
 ![image](https://user-images.githubusercontent.com/81713653/153500835-895d5cf3-0b47-4f09-9eab-610ebd6e0cfc.png)  
+
+Project 9:  
+  
+· Custom IP (SoC) Design - UART using MicroBlaze (Vitis Platform for C Codes)  
+  
+  
+ Project 10:
+   
+· Custom IP (SoC) Design - Adder (Vitis Platform for C Codes)  
+  
+  
+ Project 11:
+  
+· Custom IP (SoC) Design - Image Processing (Verification with MATLAB)
+ 
+ 
   
 
 
